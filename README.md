@@ -9,8 +9,8 @@ I am passionate about transforming data into insights using SQL, Excel, and data
 
 ## Skills
 
-SQL • Excel • Data Analysis • Python
-Database Design • Data Cleaning
+SQL • Excel • Data Analysis • Python • 
+Database Design • Data Cleaning • 
 Power BI • Business Intelligence
 
 ---
@@ -22,22 +22,46 @@ Retail sales analysis using a normalized relational database built from the Supe
 
 Key topics:
 - SQL joins
-- aggregation
-- business analysis
-- database design
+- Aggregation
+- Business analysis
+- Database design
+
+Tools:
+ - MySQL
+ - MySQL Workbench
 
 Repository:
-superstore-sql-sales-analysis
+superstore-sql-sales-analysis.
 
 ---
+
+### Power BI Sales Dashboard
+
+Interactive business intelligence dashboard built from a SQL sales analysis of the Superstore dataset.
+
+Key topics:
+- Power BI dashboard design
+- DAX measures
+- Data modeling
+- Business performance analysis
+- Interactive filtering
+
+Tools:
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
+
+Repository:
+powerbi-superstore-sales-dashboard
 
 ### Excel Sales Dashboard
 
 Interactive Excel dashboard analyzing:
 
-- sales performance
-- customer contribution
-- seasonal trends
+- Sales performance
+- Customer contribution
+- Seasonal trends
 
 Tools:
 - Pivot Tables
@@ -51,7 +75,7 @@ superstore-sales-performance
 
 ## Currently Learning
 
-I am currently working on a Power Bi Project
+I am currently working on a Python (Panda / Matplotlib ) Project
 
 ---
 

@@ -33,10 +33,7 @@ Tools:
 Repository:
 superstore-sql-sales-analysis.
 
----
-
 ### Power BI Sales Dashboard
-
 Interactive business intelligence dashboard built from a SQL sales analysis of the Superstore dataset.
 
 Key topics:
@@ -56,7 +53,6 @@ Repository:
 powerbi-superstore-sales-dashboard
 
 ### Excel Sales Dashboard
-
 Interactive Excel dashboard analyzing:
 
 - Sales performance

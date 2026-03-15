@@ -30,8 +30,7 @@ Tools:
  - MySQL
  - MySQL Workbench
 
-Repository:
-superstore-sql-sales-analysis.
+Repository : [superstore-sql-sales-analysis](github.com/ArianeSime/superstore-sql-sales-analysis)
 
 ### Power BI Sales Dashboard
 Interactive business intelligence dashboard built from a SQL sales analysis of the Superstore dataset.
@@ -49,8 +48,7 @@ Tools:
 - Power Query
 - Data Visualization
 
-Repository:
-powerbi-superstore-sales-dashboard
+Repository : [powerbi-superstore-sales-dashboard](github.com/ArianeSime/powerbi-superstore-sales-dashboard)
 
 ### Excel Sales Dashboard
 Interactive Excel dashboard analyzing:
@@ -64,8 +62,7 @@ Tools:
 - Power Query
 - Data Visualization
 
-Repository:
-superstore-sales-performance
+Repository : [superstore-sales-performance](github.com/ArianeSime/superstore-sales-performance)
 
 ---
 

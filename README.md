@@ -1,66 +1,98 @@
 # Hi, I'm Ariane 👋
 
 🎓 B.Sc.Business Informatics (Wirtschaftsinformatik) Student  
-📊 Aspiring Data Analyst  
+📊 Building Data-Driven Applications
 
-I am passionate about transforming data into insights using SQL, Excel, and data analysis techniques.
+I am passionate about solving real-world business problems by combining **data analytics, software development, and business understanding**.
+
+Through my projects, I work across the full process, from data extraction and analysis to building applications that make data usable and actionable.
 
 ---
 
 ## Skills
 
-SQL • Excel • Data Analysis • Python • 
-Database Design • Data Cleaning • 
-Power BI • Business Intelligence
+### Data & Analytics
+SQL • Excel • Power BI • Data Analysis • Data Cleaning • Data Modeling • BI • Python
+
+### Development
+Java • JSP • JavaScript • TypeScript • MVC Architecture
+
+### Tools & Technologies
+MySQL • PostgreSQL • Power Query • VS Code • GitHub
 
 ---
 
-## Projects
+## Projects : Software Development
+
+### GoRelax Web Application
+
+Java-based web application for managing employee leave requests and sick days.
+
+**Key features:**
+
+- User authentication & role-based access (Employee, HR, Admin)
+- Leave request & sick day submission forms
+- Status tracking and data visualization
+- Full MVC architecture (Java Servlets, JSP)
+
+**Technologies:**
+Java • JSP • PostgreSQL • HTML • CSS • JavaScript
+
+Repository: [GoRelax-web-APP](https://github.com/ArianeSime/GoRelax-Web-App) 
+
+--- 
+### To-Do App (TypeScript)
+A simple and basic task management application built to explore TypeScript and frontend logic.
+
+**Key topics:**
+
+- TypeScript fundamentals
+- DOM manipulation
+- Event handling
+- Basic UI logic
+
+**Technologies:**
+TypeScript • HTML • CSS
+
+Repository: [To-Do-App-TypeScript](https://github.com/ArianeSime/To-Do-App-TypeScript)
+
+---
+
+## Projects : Data analytics 
 
 ### SQL Sales Analysis
 Retail sales analysis using a normalized relational database built from the Superstore dataset.
 
-Key topics:
-- SQL joins
-- Aggregation
+**Key topics:**
+- SQL joins & Aggregation
 - Business analysis
 - Database design
 
-Tools:
- - MySQL
- - MySQL Workbench
+**Tools:**
+MySQL • MySQL Workbench
 
 Repository : [superstore-sql-sales-analysis](https://github.com/ArianeSime/superstore-sql-sales-analysis)
 
 ### Power BI Sales Dashboard
 Interactive business intelligence dashboard built from a SQL sales analysis of the Superstore dataset.
 
-Key topics:
+**Key topics:**
 - Power BI dashboard design
 - DAX measures
 - Data modeling
 - Business performance analysis
 - Interactive filtering
 
-Tools:
-- Power BI
-- DAX
-- Power Query
-- Data Visualization
+**Tools:**
+Power BI • DAX • Power Query 
 
 Repository : [powerbi-superstore-sales-dashboard](https://github.com/ArianeSime/powerbi-superstore-sales-dashboard)
 
 ### Excel Sales Dashboard
-Interactive Excel dashboard analyzing:
+Interactive Excel dashboard analyzing sales performance and customer insights.
 
-- Sales performance
-- Customer contribution
-- Seasonal trends
-
-Tools:
-- Pivot Tables
-- Power Query
-- Data Visualization
+**Tools:**
+Pivot Tables • Power Query • Data Visualization
 
 Repository : [superstore-sales-performance](https://github.com/ArianeSime/superstore-sales-performance)
 
@@ -68,7 +100,8 @@ Repository : [superstore-sales-performance](https://github.com/ArianeSime/supers
 
 ## Currently Learning
 
-I am currently working on a Python (Panda / Matplotlib ) Project
+- Python for data analysis (Pandas, Matplotlib)
+- Building more end-to-end data-driven applications
 
 ---
 
